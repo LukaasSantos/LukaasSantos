@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There 👋
 My name is Lucas Gonçalves, I always seek optimization. Looking to improve interpersonal and professional skills for a proactive result. I am interested in Front-End Development evolving to Full Stack and Mobile Development, having taken courses in HMTL5, CSS3, JS, ReactJs, Kotlin and other courses in organizations like Alura, but I am always open to other opportunities that allow me to be more flexible professionally.
 
 - 🔭 I ’m currently working on Front-end
